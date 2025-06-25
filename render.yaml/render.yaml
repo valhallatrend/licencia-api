@@ -1,8 +1,0 @@
-services:
-  - type: web
-    name: licencia-api
-    env: php
-    plan: free
-    buildCommand: ""
-    startCommand: ""
-    staticPublishPath: public
